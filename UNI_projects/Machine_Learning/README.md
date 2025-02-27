@@ -6,7 +6,7 @@ The results of those custom implementations were then compared with those obtain
 
 These are the algorithms I have implemented:
 
-## [K-NN Regression](https://github.com/Nunzi99/AI_projects/tree/main/UNI_projects/Machine_Learning/K-NN_Regression)
+## [K-NN Regression](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Machine_Learning/K-NN_Regression)
 
 For the regression task I have implemented a custom implementation of the K-NN algorithm in order to predict the net hourly energy output of a Combined Cycle Power Plant given the ambient temperature, the ambient pressure, the relative humidity and the exhaust vacuum of the plant.
 
@@ -19,7 +19,7 @@ Due to the low dimensionality of the dataset and the high amount of data points 
 These are the accuracies obtained with the custom implementation and the scikit-learn implementation:
 
 ![K-NN Regression](./K-NN_Regression/results.PNG)
-## [Logistic Regression For Classification](https://github.com/Nunzi99/AI_projects/tree/main/UNI_projects/Machine_Learning/Logistic_Regression)
+## [Logistic Regression For Classification](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Machine_Learning/Logistic_Regression)
 
 For the classification task I implemented the Logistic Regression algorithm with the goal of predicting if a certain tumoral breast mass is malignant or benign.
 
@@ -30,7 +30,7 @@ The results of the custom implementation were pretty good and similar to those o
 - Recall Custom Implementation: 0.94 vs Recall scikit-learn: 0.98
 - Specificity Custom Implementation: 0.93 vs Specificity scikit-learn: 0.98
 
-## [K-Means ++ For Clustering](https://github.com/Nunzi99/AI_projects/tree/main/UNI_projects/Machine_Learning/K-Means++)
+## [K-Means ++ For Clustering](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Machine_Learning/K-Means++)
 
 For the clustering task I implemented the K-Means++ algorithm to cluster the [Anuran Calls (MFCCs)](https://archive.ics.uci.edu/dataset/406/anuran+calls+mfccs) dataset from the UCI Machine Learning Repository.
 
