@@ -14,9 +14,11 @@ The two problems I focused on were:
 
 - [Image Captioning](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Deep_Learning/Image_Captioning): using an encoder-decoder architecture to generate captions for images from the Flickr8k dataset from Kaggle.
 - [Sentiment Analysis](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Deep_Learning/Sentiment_Analysis): developing a sentiment analysis model using the BERT language model trained on the Sentiment Analysis for Mental Health dataset from Kaggle.
-
+- [Multimodal Translator](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Deep_Learning/Multimodal_Translator): implementing a multimodal translator that can take audio or textual inputs and return both a textual and vocal translation.
 As an example here is the architecture of the image captioning model:
 ![Image Captioning Model](./Deep_Learning/Image_Captioning/model.PNG) 
+Here's an example of the multimodal translator results:
+![Multimodal Translator Results](./Deep_Learning/Multimodal_Translator/text_input.mp4)
 And here some of the results that the sentiment analysis model obtains:
 ![Sentiment Analysis Results](./Deep_Learning/Sentiment_Analysis/results.PNG)
 
