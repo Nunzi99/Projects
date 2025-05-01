@@ -11,6 +11,7 @@ The projects related to Deep Learning are focused on implementing an image capti
 - [Image Captioning](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Deep_Learning/Image_Captioning)
 - [Sentiment Analysis](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Deep_Learning/Sentiment_Analysis)
 - [Multimodal Translator](https://github.com/Nunzi99/Projects/tree/main/UNI_projects/Deep_Learning/Multimodal_Translator)
+
 As an example here is the architecture of the image captioning model:
 ![Image Captioning Model](./UNI_projects/Deep_Learning/Image_Captioning/model.PNG) 
 Here's an example of the multimodal translator results:
