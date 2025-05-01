@@ -1,4 +1,4 @@
-# Sentiment Analysis
+# Multimodal Translator
 
 ## Introduction
 
@@ -35,6 +35,6 @@ Basically the application works as follows:
 
 These are some of the results the model obtains:
 
-![Results with textual input](./text_input.mp4)
+[![Results with textual input](text_input_thumbnail.png)](https://github.com/user-attachments/assets/b2f14033-22ee-4bc5-bea6-3bf206d053de)
 
-![Results with audio input](./audio_input.mp4)
+[![Results with audio input](audio_input_thumbnail.png)](https://github.com/user-attachments/assets/32f5dec7-0cf6-42e6-9fda-bfe4138d39ef)

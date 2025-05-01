@@ -18,7 +18,7 @@ The two problems I focused on were:
 As an example here is the architecture of the image captioning model:
 ![Image Captioning Model](./Deep_Learning/Image_Captioning/model.PNG) 
 Here's an example of the multimodal translator results:
-![Multimodal Translator Results](https://github.com/user-attachments/assets/b2f14033-22ee-4bc5-bea6-3bf206d053de)
+[![Multimodal Translator Results](./Deep_Learning/Multimodal_Translator/text_input_thumbnail.png)](https://github.com/user-attachments/assets/b2f14033-22ee-4bc5-bea6-3bf206d053de)
 And here some of the results that the sentiment analysis model obtains:
 ![Sentiment Analysis Results](./Deep_Learning/Sentiment_Analysis/results.PNG)
 
